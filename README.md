@@ -119,10 +119,3 @@ For inquiries, please reach out via GitHub.
 - [Vite](https://vitejs.dev/) for the development environment.
 - [React](https://reactjs.org/) for the framework.
 ```
-
-### Updates:
-1. Added instructions for setting up a `.env` file to store the API key securely.
-2. Ensured all placeholder text like `your-username` and `your_api_key_here` are highlighted for customization.
-3. Formatted instructions for better clarity and consistency. 
-
-Let me know if more updates are needed!
