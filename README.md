@@ -83,11 +83,6 @@ src/
 
 ---
 
-### Weather Display
-![Weather Display](https://via.placeholder.com/800x400.png?text=Screenshot+Here)
-
----
-
 ## Future Enhancements
 - **5-Day Forecast**: Add future weather predictions.
 - **Current Location**: Use Geolocation API for automatic weather display.
