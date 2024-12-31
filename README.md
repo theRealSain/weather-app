@@ -91,22 +91,15 @@ src/
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contributing
 Contributions are welcome! Feel free to:
 - Open an issue
 - Fork the repository and submit a pull request
 
----
-
-## Contact
-Developed by [Your Name](https://github.com/your-username).  
-For inquiries, please reach out via GitHub.
-
+## Live Project
+This project is live at:
+- [Weather App](https://therealsain.github.io/weather-app/)
+- 
 ---
 
 ### Acknowledgments
