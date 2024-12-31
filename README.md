@@ -99,7 +99,6 @@ Contributions are welcome! Feel free to:
 ## Live Project
 This project is live at:
 - [Weather App](https://therealsain.github.io/weather-app/)
-- 
 ---
 
 ### Acknowledgments
